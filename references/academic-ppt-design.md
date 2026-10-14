@@ -61,7 +61,7 @@ Avoid:
 # Color Guidelines
 
 ## Recommended Color System
-
+The background of the title area can be blue or other color,may be you can ask the user for the answer , to make the title stand out.
 Use:
 
 - One primary academic color.
