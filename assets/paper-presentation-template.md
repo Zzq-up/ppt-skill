@@ -297,6 +297,11 @@ Use:
 
 ---
 
+# Slide title Design
+Every slide title must be a short, declarative summary of that slide's content, phrased like a paper subsection heading (e.g. "Related Work", "Experimental Setup", "Limitations and Discussion") rather than a full sentence, a slogan, or a teaser. Titles must never be written as questions, and must avoid AI-sounding, generic, or marketing-style wording — keep them plain, specific, and academic. The entire deck must be in English (titles, body text, figure captions, and speaker notes). The title bar should carry the main title only: do not add a secondary subtitle, tag, or small English label beneath it.
+
+---
+
 # Figure Usage Rules
 
 For every paper presentation:
