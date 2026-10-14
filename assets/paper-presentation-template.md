@@ -302,6 +302,11 @@ Every slide title must be a short, declarative summary of that slide's content, 
 
 ---
 
+# The Language Rules
+The language must be either Chinese or English. You can ask the user about this.
+
+---
+
 # Figure Usage Rules
 
 For every paper presentation:
