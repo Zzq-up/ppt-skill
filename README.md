@@ -1,3 +1,4 @@
+# PPT Skill
 一个用于帮助 AI Agent 制作学术论文汇报 PPT 的 Skill。
 
 该 Skill 面向研究生组会、论文阅读汇报等场景，
